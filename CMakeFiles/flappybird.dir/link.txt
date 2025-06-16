@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/flappybird.dir/link.d CMakeFiles/flappybird.dir/main.c.o -o flappybird  -lcurses -lform

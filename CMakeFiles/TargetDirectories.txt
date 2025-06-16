@@ -1,3 +1,0 @@
-/home/kybo/repos/flappybird/CMakeFiles/flappybird.dir
-/home/kybo/repos/flappybird/CMakeFiles/edit_cache.dir
-/home/kybo/repos/flappybird/CMakeFiles/rebuild_cache.dir
